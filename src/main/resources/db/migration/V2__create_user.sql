@@ -12,4 +12,4 @@ constraint active_ck check(active in ('A','I')));
 
 
 insert into user(id , name , username, password, mobileno , emailid ,active , role )
-values (01 , 'sankar' ,'cms','cms123', 998877665, 'cms@gmail', 'A','admin' );
+values (01 , 'pooshana' ,'devi','devi123', 55228877, 'devi@gmail', 'A','admin' );
